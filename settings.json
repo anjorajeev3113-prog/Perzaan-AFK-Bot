@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Kingdom-afk",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "KingdomSMP-0eTC.aternos.me",
+    "port": 36471,
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "Subscribe to winjo gamerz!",
+        "Subscribe to winjo gamerz!",
+        "Subscribe to winjo gamerz!"
       ]
     },
     "chat-log": true,
